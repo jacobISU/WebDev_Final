@@ -1,6 +1,6 @@
-# Project Name
+# Firetire Website
 
-Short description or introduction of the project.
+This was a final project from my user interface class. The theme is motorcycles that are pulled from a MongoDB database. 
 
 ## Table of Contents
 - [Installation](#installation)
