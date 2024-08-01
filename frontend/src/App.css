@@ -1,0 +1,327 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.HeaderCenter {
+  width: 100vw;
+  height: 0vh;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.cardCenter {
+  width: 50vw;
+  height: 60vh;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.center {
+  text-align: center;
+  text-shadow: 5px 5px 7px rgba(0, 0, 0, 0.5);
+}
+
+.cardTitleCenter {
+  text-align: center;
+}
+
+.blackmatte {
+  background-image: url('https://images.pexels.com/photos/73873/star-clusters-rosette-nebula-star-galaxies-73873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.image-fixed-size {
+  width: 300px;
+  height: 200px; 
+  object-fit: cover; 
+  display: block; 
+  margin: 0 auto; 
+  border: 4px solid rgb(0, 0, 0);
+}
+
+.info-text {
+  margin: 10px 0;            /* Vertical spacing between text elements */
+  font-size: 1rem;           /* Uniform font size */
+  text-align: center;        /* Center alignment for all text */
+}
+
+.info-desc {
+  text-align: center;
+  font-size: 0.9rem;
+  margin-top: 15px;          /* Extra top margin for the description */
+  width: 90%;                /* Description takes slightly less width for better readability */
+}
+
+.price-text {
+  color: #FFD700;
+  font-weight: bold;
+  font-size: 36px;
+  text-shadow: 2px 3px 2px black;
+}
+
+.yellowText {
+  color: #FFD700;
+  text-shadow: 1px 1px 2px black;
+}
+
+.cardText {
+  color: #ffffff;
+  font-size: small;
+}
+
+.assignment03Header {
+  color: #FFD700;
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.yellowButton {
+  background-color: #FFD700;
+  color: black;
+  margin: 10px;
+}
+
+.appBackground {
+  background-color: black;
+  color: white;
+}
+
+.textureBackground {
+  background-image: url('../../backend/images/blackTexture.jpg');
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 650px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1050;
+}
+
+.modal-content {
+  background: #000000;
+  border-radius: 2px;
+  border: 5px solid #ffffff;
+  max-width: 30%;
+  padding: 20px;
+  z-index: 1051;
+}
+
+.inputCard {
+  background-image: url('../../backend/images/blackTexture2.jpg');
+  background-size: cover;
+  background-position: center;
+  border: 1px solid white;
+  max-width: 100%;
+  margin: auto;
+}
+
+.Banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  width: 70%;
+  margin: 0 auto;
+  background: url('./images/Banner1.jpg') no-repeat center center;
+  background-size: cover;
+  color: white;
+  text-shadow: 4px 4px 1px rgba(0, 0, 0, 1);
+  font-family: Arial, Helvetica, sans-serif
+}
+
+.Banner2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  width: 100%;
+  margin: 0 auto;
+  background: url('./images/Banner2.jpg') no-repeat center center;
+  background-size: cover;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.Banner3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  width: 100%;
+  margin: 0 auto;
+  background: url('./images/StoreTeaser.PNG') no-repeat center center;
+  background-size:contain;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.Banner h1 {
+  font-size: 4rem;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+
+.carousel-caption {
+  width: 100%;
+  color: white;
+  font-size: 24px;
+}
+
+.quote1 {
+  background-image: "url('./images/DarkCaro2.jpg')";
+  background-size: 'cover';
+  background-position: 'center';
+  color: white;
+  font-size: 24px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  margin-top: 160px;
+}
+
+.card-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background-image: url('./images/FunFactBackground.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.fact-card {
+  width: 500px;
+  height: 300px;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  padding: 30px;
+  box-sizing: border-box;
+  margin-bottom: 30px;
+  border: 5px solid white;
+}
+
+.fact-text {
+  text-align: center;
+  max-width: 100%;
+  word-wrap: break-word;
+  font-size: 16px;
+  margin: 0;
+  color: rgb(255, 255, 255);
+  background-color: rgba(0, 0, 0, .5);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.nav-button {
+  background: none;
+  border: none;
+  color: rgba(255, 255, 255, 1);
+  font-size: 48px;
+  cursor: pointer;
+  padding: 10px 150px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.3s ease-in-out, color 0.3s ease;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.prev-button {
+  left: 500px;
+}
+
+.next-button {
+  right: 500px;
+}
+
+.card-title {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #000000;
+  color: white;
+}
+
+.filterBar2{
+  width: 400px;
+  border: 2px solid yellow;
+  padding: 10px;
+}
+
+
+.line-across::before {
+  content: ""; /* Necessary for the pseudo-element to work */
+  display: block;
+  height: 1px;
+  background-color: rgb(255, 0, 0);
+  width: 100%;
+}
+
