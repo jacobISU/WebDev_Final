@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WebDev_Final/static/css/main.23ed5631.css",
+    "main.js": "/WebDev_Final/static/js/main.a77e5140.js",
+    "static/js/453.8ab44547.chunk.js": "/WebDev_Final/static/js/453.8ab44547.chunk.js",
+    "static/media/blackTexture.jpg": "/WebDev_Final/static/media/blackTexture.85fbc2d81eb844fe630e.jpg",
+    "static/media/StoreTeaser.PNG": "/WebDev_Final/static/media/StoreTeaser.f75fb937429e6432c74e.PNG",
+    "static/media/FunFactBackground.jpg": "/WebDev_Final/static/media/FunFactBackground.64499f2b73a855d5c6e6.jpg",
+    "static/media/Banner2.jpg": "/WebDev_Final/static/media/Banner2.dd69b014f240aeed2573.jpg",
+    "static/media/blackTexture2.jpg": "/WebDev_Final/static/media/blackTexture2.1779978524e5eddfb5c0.jpg",
+    "static/media/Banner1.jpg": "/WebDev_Final/static/media/Banner1.474373c5e4e49159775c.jpg",
+    "static/media/FireTireLogo.jpg": "/WebDev_Final/static/media/FireTireLogo.92faa89d4f6db58fc0bc.jpg",
+    "index.html": "/WebDev_Final/index.html",
+    "main.23ed5631.css.map": "/WebDev_Final/static/css/main.23ed5631.css.map",
+    "main.a77e5140.js.map": "/WebDev_Final/static/js/main.a77e5140.js.map",
+    "453.8ab44547.chunk.js.map": "/WebDev_Final/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23ed5631.css",
+    "static/js/main.a77e5140.js"
+  ]
+}
