@@ -1,0 +1,122 @@
+[
+    {
+        "id":0,
+        "price": 4000,
+        "model": "Sportcity 125",
+        "type": "Scooter",
+        "name": "Liu",
+        "image": "https://images5.1000ps.net/images_bikekat/2018/9-APRILIA/7597-Sportcity_Street_125/1.jpg?format=webp&quality=80&width=380&height=250&bgcolor=rgba_39_42_44_0&mode=pad",
+        "contact": "555-555-0000",
+        "desc": "Good condition. First and only owner. 7 more years of COE. No loan. Call me to deal immediately."
+    },
+    {
+        "id":1,
+        "price": 2200,
+        "model": "TA200 Phantom",
+        "type": "Normal",
+        "name": "Jing Hui",
+        "image": "https://live.staticflickr.com/8423/7753731268_de57aaa6e8_b.jpg",
+        "contact": "555-555-1111",
+        "desc": "Just finished full servicing. New handlebar grips. New Sparkplug. Slim IU. Slight issue with the speedometer (needle broke but you can still tell the speed). 3 years of COE left, non-renewable. Just renewed road tax til 11 March 2015. Great short-term ride."
+    },
+    {
+        "id":2,
+        "price": 1999,
+        "model": "FTR 1200 S",
+        "type": "Cruiser",
+        "name": "Hau",
+        "image": "https://www.cnet.com/a/img/resize/cc7387d2a8d1ba1315420c20b9c15634f3817b09/hub/2019/08/18/85316afc-815b-4a2a-85c0-19e7f2d1468a/2019-indianftr1200-021.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "contact": "555-555-2009",
+        "desc": "Well maintenance, Low mileage.Park in shelter car park since day 1."
+    },
+    {
+        "id":3,
+        "price": 2400,
+        "model": "NSR150 SP",
+        "type": "Sport",
+        "name": "Jeff Bakerman",
+        "image": "https://i.ytimg.com/vi/4LHBGe07JYE/maxresdefault.jpg",
+        "contact": "555-555-3333",
+        "desc": "Good condition Honda NSR150SP - Fast, agile and responsive sport bike. New paintwork and all parts are in good working condition. All stock and original parts used. This is one of best two stroke bike in SG. COE till May 2018. Contact me at 90922199 if you are interested."
+    },
+    {
+        "id":4,
+        "price": 4500,
+        "model": "TA200 Phantom",
+        "type": "Normal",
+        "name": " Unknown",
+        "image": "https://i.ytimg.com/vi/3RsO1ZpSc-A/maxresdefault.jpg",
+        "contact": "555-555-4444",
+        "desc": "COE 9 years 1+ month and engine is 100% 10/10 engine condition need run in! New piston fully rebuilt (Only genuine part use only) Outlook 7/10"
+    },
+    {
+        "id":5,
+        "price": 7500,
+        "model": "Mito Evolution I / II",
+        "type": "Sport",
+        "name": "Sammy Sam",
+        "image": "https://iconicmotorbikeauctions.com/wp-content/uploads/2022/06/Cagiva-Mito-125-Right-Side-Featured.jpg",
+        "contact": "555-555-5555",
+        "desc": "Coe till 2024"
+    },
+    {
+        "id":6,
+        "price": 8700,
+        "model": "MP3 125",
+        "type": "Scooter",
+        "name": "Sip McGooby",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLK9LO8qdY01VXKuoB9jDswIoNZEM5Re8few&s",
+        "contact": "555-555-6666",
+        "desc": "Still brand new bike bought less than one year ago rarely used supper low millage 700km only ridden still under warranty letting it go as am rarely riding it please only whatsapp for more info and pic 84929655"
+    },
+    {
+        "id":7,
+        "price": 3800,
+        "model": "CBR150",
+        "type": "Sport",
+        "name": "Nathaniel CanBottom",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/CBR150R_from_Penang_Malaysia.JPG",
+        "contact": "555-555-7777",
+        "desc": "Low mileage and reliable honda CBR150 DOHC engine that gives you enough power for 2 person. Engine is smooth a s gear change is buttery smooth . Low mileage as work place is near and weekends usually take public transport with family. Fuel consumption is low at 37km-40km/L."
+    },
+    {
+        "id":8,
+        "price": 7200,
+        "model": "FZ 16",
+        "type": "Normal",
+        "name": "Happy Gilmore",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTToAZjeYrAE1ZDIKjOJtCNxIKej08goUhioA&s",
+        "contact": "555-555-8888",
+        "desc": "Coe till 17/02/2023"
+    },
+    {
+        "id":9,
+        "price": 6288,
+        "model": "Vivacity 125",
+        "type": "Scooter",
+        "name": " Manny M.",
+        "image": "https://images5.1000ps.net/images_bikekat/2018/32-Peugeot/4805-Vivacity_125/2.jpg?format=webp&quality=80&scale=both&width=1984&height=1116&bgcolor=rgba_39_42_44_0&mode=pad",
+        "contact": "555-555-9999",
+        "desc": "COE EXPIRY 2024! TWO YEARS WARRANTY UNLIMITED MILEAGE!"
+    },
+    {
+        "id":10,
+        "price": 3800,
+        "model": "Honda Fury",
+        "type": "Cruiser",
+        "name": "Unknown",
+        "image": "https://bikelifenation.net/cdn/shop/products/54412574_1502403223224653_1741157476687937536_n.jpg?v=1666030524",
+        "contact": "555-555-2222",
+        "desc": "Greeting! I have got an excellent weekend Honda Fury cruiser for sale. Great engine condition, fast pickup and smooth acceleration. Pristine condition cruiser with beautiful paintwork. Recently I had just change new set of high profile tyres, new slim IU unit (with 5yrs warranty), DID O-ring chain, new set of alloy sprockets, new battery and new set of brakes. Good working top box. COE is till Mar 2022."
+    },
+    {
+        "id":11,
+        "price": 1750,
+        "model": "Indian Scout",
+        "type": "Cruiser",
+        "name": "Miran W",
+        "image": "https://purposebuiltmoto.com/cdn/shop/articles/Custom-Indian-Scout-2020-Bobber.jpg?v=1691044955",
+        "contact": "555-555-1010",
+        "desc": "Negotiate price. Viewing can be arranged."
+    }
+]
