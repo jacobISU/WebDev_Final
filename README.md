@@ -1,7 +1,6 @@
 # Firetire Website
 
-This was a final project from my user interface class.
-The theme is motorcycles that are pulled from a MongoDB database.
+This branch is used to run the website from github pages.
 
 https://jacobisu.github.io/WebDev_Final/
 
