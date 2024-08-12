@@ -4,8 +4,6 @@ import 'bootstrap/dist/js/bootstrap.bundle.min';
 import "./App.css";
 import logo from './images/FireTireLogo.jpg';
 
-
-
 export function AllViews() {
     //State variables for managing view index.
     const [viewIndex, setViewIndex] = useState(0);

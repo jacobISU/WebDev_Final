@@ -11,7 +11,7 @@ const port = "8081";
 const host = "localhost";
 
 const { MongoClient, Double } = require("mongodb")
-const url = "mongodb://127.0.0.1:27017";
+const url = "mongodb://localhost:27017/";
 const dbName = "finaldata";
 const client = new MongoClient(url);
 const db = client.db(dbName);
