@@ -13,3 +13,4 @@ Enter `cd backend` and then `node backend.js` to run. Might require installing N
 ### Frontend
 The frontend requires no configuration.  
 `cd frontend` and then `npm start` to start the React app, which will launch the site.
+If the backend is not correct, the store page will be blank.
