@@ -35,7 +35,7 @@ export function AllViews() {
         {
             id: 1,
             image: "https://p1m.mbike.com/001/001/356/Black___White_09_d.jpg",
-            fact: "The First Motorcycle Was Made of WOOD!",
+            fact: "The 1st Motorcycle Was Made of WOOD!",
         },
         {
             id: 2,
